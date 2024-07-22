@@ -1,5 +1,3 @@
-# telegram-auto
-
 # Telegram Automation Script
 
 This script automates tasks in the Telegram desktop application, including referral processes, creating usernames, and solving captchas. 

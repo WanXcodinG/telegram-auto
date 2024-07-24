@@ -25,16 +25,14 @@ Enter coordinates, delay, click type, and description (x y delay [left/right] de
 393 925 2 left klik /start
 443 881 2 left klik start now
 451 600 10 left klik ok buka bot
-315 438 2 right membuka inspect
-415 560 2 left klik inspect
+300 452 2 left press f12
 512 147 2 left klik application
 214 344 2 left klik link session
 538 527 2 right klik tgweb
 636 546 2 left klik copy value
-1019 1053 2 left klik notepad
+842 1055 2 left klik notepad
 0 0 3 left ctrl + v
 0 0 3 left lakukan enter
 436 838 2 left kembali ke bot
 486 201 2 left tutup bot
-0 0 2 left press f12
 

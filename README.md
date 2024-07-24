@@ -16,17 +16,22 @@ pip install pyautogui requests faker termcolor
 
 python all3.py
 
-x y delay [left/right] description
+Enter coordinates, delay, click type, and description (x y delay [left/right] description) one by one. Type 'done' to finish:
 
-892 439 1 left klik link referral
-621 1006 25 left klik start
-360 900 2 left klik channel
-606 1004 2 left klik join channel
-284 49 2 left klik kembali
-367 921 2 left klik group
-610 1010 2 left klik join group
-284 49 2 left klik kembali
-391 953 5 left klik i subscribed
-276 828 1 left capture captcha
-614 1005 2 left klik kirim kode
+90 50 2 left type @UEEx_Miner_bot
+138 107 2 left klik bot
+302 1006 2 left klik menu
+393 925 2 left klik /start
+443 881 2 left klik start now
+451 600 10 left klik ok buka bot
+300 452 2 left press f12
+512 147 2 left klik application
+214 344 2 left klik link session
+538 527 2 right klik tgweb
+636 546 2 left klik copy value
+842 1055 2 left klik notepad
+0 0 3 left ctrl + v
+0 0 3 left lakukan enter
+436 838 2 left kembali ke bot
+486 201 2 left tutup bot
 
